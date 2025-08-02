@@ -20,14 +20,15 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 * [ ] Styled hover effects for game cards for better interactivity
 * [ ] Added a search bar to filter games by name
+* [ ] Made stylistic changes such as color to make it more aesthetic
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://drive.google.com/file/d/1s67pQct8x7AjpJY1pTH3LxGlbHdyrvyT/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,10 +37,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+During development, managing dynamic updates like filtering the games list was challenging to implement smoothly without making other unwanted changes. It took careful debugging to maintain responsiveness and avoid UI glitches.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Michael Jissa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
