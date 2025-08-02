@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://drive.google.com/file/d/1s67pQct8x7AjpJY1pTH3LxGlbHdyrvyT/view?usp=sharing)
+https://drive.google.com/file/d/1s67pQct8x7AjpJY1pTH3LxGlbHdyrvyT/view?usp=sharing
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
@@ -36,7 +36,6 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 During development, managing dynamic updates like filtering the games list was challenging to implement smoothly without making other unwanted changes. It took careful debugging to maintain responsiveness and avoid UI glitches.
 ## License
 
